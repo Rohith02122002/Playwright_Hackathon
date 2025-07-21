@@ -1,1 +1,33 @@
-[]
+[
+  {
+    "allBikes": [
+      {
+        "BikeName": "Honda CBR500R",
+        "BikePrice": "550000",
+        "BikeExpectedDate": "Expected Launch : Oct 2025"
+      },
+      {
+        "BikeName": "Honda CB500F",
+        "BikePrice": "500000",
+        "BikeExpectedDate": "Expected Launch : Oct 2025"
+      },
+      {
+        "BikeName": "Honda Activa 7G",
+        "BikePrice": "79000",
+        "BikeExpectedDate": "Expected Launch : Oct 2025"
+      },
+      {
+        "BikeName": "Honda CL500 Scrambler",
+        "BikePrice": "600000",
+        "BikeExpectedDate": "Expected Launch : Dec 2025"
+      }
+    ],
+    "selectedBikes": [
+      {
+        "BikeName": "Honda Activa 7G",
+        "BikePrice": "79000",
+        "BikeExpectedDate": "Expected Launch : Oct 2025"
+      }
+    ]
+  }
+]
