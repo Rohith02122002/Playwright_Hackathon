@@ -1,0 +1,32 @@
+import { expect } from "@playwright/test";
+
+export class GooglePage{
+    constructor(page){
+        this.page=page;
+    }
+async NavigateUrl() {
+    await this.page.goto("https://www.zigwheels.com/");
+    await this.page.waitForSelector(".h-sid.h-sid-s",{timeout:10000});
+    await this.page.locator(".h-sid.h-sid-s").click();
+
+    const googleBtn=this.page.locator("[data-track-label='Popup_Login/Register_with_Google']");
+    await expect(googleBtn).toBeVisible({timeout:10000});
+
+    const [newPage] = await Promise.all([
+    this.page.waitForEvent("popup",{timeout:15000}),
+    this.page.locator(".newgf-login").nth(1).click()
+    ]);
+    this.newPage = newPage;
+
+    const emailBox=await this.newPage.waitForSelector("#identifierId",{timeout:10000,});
+    expect(emailBox).not.toBeNull();
+    expect(await emailBox.isVisible()).toBe(true);
+    await emailBox.fill("dsfgjjif")
+    const NextButton= await this.newPage.getByText("Next",{timeout:10000});
+    expect(await NextButton.isVisible()).toBe(true);
+    await NextButton.click();
+    await this.newPage.waitForTimeout(5000);
+    await this.newPage.screenshot({path:"Screenshots/google.jpg"});
+}
+
+}
