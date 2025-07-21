@@ -48,8 +48,5 @@ test("Google",async()=>{
       await google.NavigateUrl();
 
 })
-test("sample test",async()=>{
-  console.log("Mukesh test case");
-})
 
 });
