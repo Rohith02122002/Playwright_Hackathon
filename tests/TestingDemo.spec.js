@@ -4,7 +4,7 @@ import { UsedCars } from "../Pages/UsedCarsPage";
 import fs from "fs" ;
 import path from "path";
 import { GooglePage } from "../Pages/Google-Signin";
-
+const testData = require("../Utils/InputData.json");
 
 // Reset JSON once per test suite
 const FILE_PATH = path.join(__dirname, "../Utils/output.json");
@@ -28,7 +28,7 @@ test.beforeAll(async () => {
 test("ZigWheels",async()=>{
       const home= new  HondaPage(page);
       //Home page Test Scenario
-      await home.navigateToUrl();
+      await home.navigateToUrl(testData.BaseURL);
       await home.upcomingBikesFilter();
       await home.bikeData();   
 });
@@ -36,16 +36,16 @@ test("ZigWheels",async()=>{
 test("Used Cars",async()=>{
         // Usedcars page Test Scenario
         const cars= new UsedCars(page);
-        await cars.navigation();
+        await cars.navigation(testData.BaseURL);
         await cars.selectOption();
-        await cars.preferredLoction();
+        await cars.preferredLoction(testData.CityName);
         await cars.popularBrands();
 });
 
 test("Google",async()=>{
     // Google sign in  page Test Scenario
       const google= new GooglePage(page);
-      await google.NavigateUrl();
+      await google.NavigateUrl(testData.BaseURL);
 
 })
 

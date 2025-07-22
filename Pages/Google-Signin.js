@@ -1,11 +1,12 @@
 import { expect } from "@playwright/test";
+import { url } from "inspector";
 
 export class GooglePage{
     constructor(page){
         this.page=page;
     }
-async NavigateUrl() {
-    await this.page.goto("https://www.zigwheels.com/");
+async NavigateUrl(url) {
+    await this.page.goto(url);
     await this.page.waitForSelector(".h-sid.h-sid-s",{timeout:10000});
     await this.page.locator(".h-sid.h-sid-s").click();
 

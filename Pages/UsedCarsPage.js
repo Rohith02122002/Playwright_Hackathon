@@ -1,12 +1,12 @@
+import { TIMEOUT } from "dns";
 import fs from "fs";
-
 
 export class UsedCars {
   constructor(page) {
     this.page = page;
   }
-  async navigation() {
-    await this.page.goto("https://www.zigwheels.com/", {
+  async navigation(baseURL) {
+     await this.page.goto(baseURL, {
       waituntil: "domcontentload",
     });
   }
@@ -15,15 +15,20 @@ export class UsedCars {
     await this.page.waitForTimeout(2000);
     await this.page.locator("//ul[@class='txt-l']//li[1]").click();
   }
-  async preferredLoction() {
+  async preferredLoction(city) {
     await this.page.getByPlaceholder("Enter Your City").click();
-    // await this.page.getByPlaceholder("Enter Your City").fill("Chennai");
-    // await this.page.waitForSelector("text='Chennai'");
-    //  await this.page.pause();
-    // await this.page.getByText('Chennai').click();
-    await this.page.locator("//a[@title='Chennai']").click();
+    await this.page.getByPlaceholder("Enter Your City").pressSequentially(city,{timeout:5000});
+    // await this.page.getByPlaceholder('Enter Your City').screenshot({ path: `Screenshots/CityInput_${Date.now()}.png` });
+    // await this.page.getByPlaceholder("Enter Your City").screenshot({path: 'Screenshots/CityInput.png'});
+    // it was working to select different cities
+    // await this.page.waitForSelector(".ui-menu-item",{timeout:20000});
+    // await this.page.waitForTimeout(2000);
+    // await this.page.locator(".ui-menu-item").nth(0).click();
 
-    // await this.page.locator("//a[@class='ui-corner-all']").click();
+    // checking with other code 
+    await this.page.locator(".ui-menu-item").first().waitFor({ state: 'visible', timeout: 20000 });
+    await this.page.locator(".ui-menu-item").first().click();
+
   }
   async popularBrands() {
         const carBrands = this.page.locator(".popularModels li");
