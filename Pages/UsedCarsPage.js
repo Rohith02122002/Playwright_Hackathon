@@ -1,35 +1,59 @@
-import { TIMEOUT } from "dns";
 import fs from "fs";
-
+import { expect } from "@playwright/test";
 export class UsedCars {
   constructor(page) {
     this.page = page;
+    this.cityInput=this.page.getByPlaceholder("Enter Your City");
+    this.autoSuggestion=this.page.locator(".ui-menu-item").first();
   }
   async navigation(baseURL) {
      await this.page.goto(baseURL, {
-      waituntil: "domcontentload",
+      waituntil: "networkidle",
     });
   }
-  async selectOption() {
+  async assertNavigationSuccess() {
+    await expect(this.page).toHaveURL(/zigwheels\.com/);
+    await expect(this.page).toHaveTitle(/ZigWheels/);
+  }
+  async moreOption() {
     await this.page.locator("//span[@class='c-p icon-down-arrow']").click();
-    await this.page.waitForTimeout(2000);
+    await this.page.waitForTimeout(1000);
+  }
+  async usedCarsOption(){  
     await this.page.locator("//ul[@class='txt-l']//li[1]").click();
   }
-  async preferredLoction(city) {
-    await this.page.getByPlaceholder("Enter Your City").click();
-    await this.page.getByPlaceholder("Enter Your City").pressSequentially(city,{timeout:5000});
-    // await this.page.getByPlaceholder('Enter Your City').screenshot({ path: `Screenshots/CityInput_${Date.now()}.png` });
-    // await this.page.getByPlaceholder("Enter Your City").screenshot({path: 'Screenshots/CityInput.png'});
-    // it was working to select different cities
-    // await this.page.waitForSelector(".ui-menu-item",{timeout:20000});
-    // await this.page.waitForTimeout(2000);
-    // await this.page.locator(".ui-menu-item").nth(0).click();
 
-    // checking with other code 
-    await this.page.locator(".ui-menu-item").first().waitFor({ state: 'visible', timeout: 20000 });
-    await this.page.locator(".ui-menu-item").first().click();
-
+  async assertUsedCarsPageTitle() {
+    await expect(this.page).toHaveTitle(/Used Cars/);
   }
+
+async preferredLocation(city) {
+  await this.cityInput.click();
+  await this.cityInput.fill("");
+  await this.page.waitForTimeout(500); // Let UI react
+  await this.cityInput.type(city, { delay: 100 });
+
+  // Wait for suggestion list to appear
+  const suggestions = this.page.locator(".ui-menu-item");
+  await suggestions.first().waitFor({ state: "visible", timeout: 20000 });
+   await this.autoSuggestion.screenshot({path:"Screenshots/CItyInput.jpg"});
+  // Assert there are suggestions
+  const count = await suggestions.count();
+  expect(count).toBeGreaterThan(0); 
+
+  await suggestions.first().click(); // Select the top one
+  await this.page.waitForTimeout(1000); // Let page react after selection
+}
+
+  async assertCityInputVisible() {
+    await expect(this.cityInput).toBeVisible();
+    await expect(this.cityInput).toBeEnabled();
+  }
+  
+  async assertSuggestionsAvailable() {
+    await expect(this.autoSuggestion).toBeVisible();
+  }
+  
   async popularBrands() {
         const carBrands = this.page.locator(".popularModels li");
         const count = await carBrands.count();
@@ -41,7 +65,7 @@ export class UsedCars {
           const brandName=await carBrands.nth(i).innerText();
           const AvailableCars = await this.page.locator("#data-set-body >> .zw-sr-searchTarget");
           let count=await AvailableCars.count()
-          console.log(brandName,count);
+          // console.log(brandName,count);
             for (let index = 0; index < count; index++) {
                 const Car=await AvailableCars.nth(index)
                 const Totaldivs=await Car.locator(".pl-30.zw-sr-paddingLeft >> *");
