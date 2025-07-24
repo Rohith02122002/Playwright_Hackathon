@@ -38,10 +38,8 @@ test.describe("ZigWheels total pages", async () => {
     await google.NavigateUrl(testData.BaseURL);
   });
 
-  test.only("ZigWheels", async () => {
-    // const home= new  HondaPage(page);
+  test("ZigWheels", async () => {
     //Home page Test Scenario
-    // await home.navigateToUrl(testData.BaseURL);
     await home.upcomingBikesFilter();
     await home.upcomingHondaBike();
     await home.bikeData();
@@ -49,8 +47,6 @@ test.describe("ZigWheels total pages", async () => {
 
   test("Used Cars", async () => {
     // Usedcars page Test Scenario
-    // const cars= new UsedCars(page);
-    // await cars.navigation(testData.BaseURL);
     await cars.moreOption();
     await cars.usedCarsOption();
     await cars.preferredLocation(testData.CityName);
@@ -59,8 +55,6 @@ test.describe("ZigWheels total pages", async () => {
 
   test("Google", async () => {
     // Google sign in  page Test Scenario
-    // const google= new GooglePage(page);
-    // await google.NavigateUrl(testData.BaseURL);
     await google.loginWithGoogle();
   });
 });
