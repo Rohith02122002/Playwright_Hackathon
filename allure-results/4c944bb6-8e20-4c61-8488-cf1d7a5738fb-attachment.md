@@ -1,0 +1,313 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Home":
+    - /url: /
+    - img "Home"
+  - navigation:
+    - list:
+      - listitem:
+        - link "NEWS & REVIEWS":
+          - /url: /news
+      - listitem:
+        - link "NEW CARS":
+          - /url: /newcars
+      - listitem:
+        - link "NEW BIKES":
+          - /url: /newbikes
+      - listitem:
+        - link "SCOOTERS":
+          - /url: /scooters
+      - listitem:  MORE
+  - textbox "Creta, Community, On Road Price, Ola S1, TVS Bikes"
+  - text: 
+  - img "Avatar"
+  - text: Login & More
+- list:
+  - listitem:
+    - link "Home":
+      - /url: https://www.zigwheels.com
+    - text: ›
+  - listitem:
+    - link "Upcoming Bikes":
+      - /url: /upcoming-bikes
+    - text: ›
+  - listitem: Honda Bikes
+- main:
+  - heading "Honda Upcoming Bikes in India" [level=1]
+  - text: Honda is expected to launch 6 bikes in the year 2025-2026. Honda Shine 100 DX, Honda CB125 Hornet and Honda CBR500R are launching soon in India at an estimated price of Rs. 72,000, Rs. 1.00 Lakh and Rs. 5.50 Lakh, respectively.
+  - heading "Upcoming Honda Bikes in 2025-26" [level=2]
+  - text: (6 bikes to show)
+  - list:
+    - listitem: Scooters Only
+    - listitem: Sports Bikes
+  - list:
+    - listitem:
+      - img "Honda Shine 100 DX"
+      - link "Honda Shine 100 DX":
+        - /url: /honda-bikes/shine-100-dx
+        - strong: Honda Shine 100 DX
+      - text: "Rs. 72,000 Expected Launch : Jul 2025 Alert Me When Launched"
+    - listitem:
+      - img "Honda CB125 Hornet"
+      - link "Honda CB125 Hornet":
+        - /url: /honda-bikes/cb125-hornet
+        - strong: Honda CB125 Hornet
+      - text: "Rs. 1.00 Lakh Expected Launch : Jul 2025 Alert Me When Launched"
+    - listitem:
+      - img "Honda CBR500R"
+      - link "Honda CBR500R":
+        - /url: /honda-bikes/cbr500r
+        - strong: Honda CBR500R
+      - text: "Rs. 5.50 Lakh Expected Launch : Oct 2025 Alert Me When Launched"
+    - listitem:
+      - img "Honda CB500F"
+      - link "Honda CB500F":
+        - /url: /honda-bikes/cb500f
+        - strong: Honda CB500F
+      - text: "Rs. 5.00 Lakh Expected Launch : Oct 2025 Alert Me When Launched"
+    - listitem:
+      - img "Honda Activa 7G"
+      - link "Honda Activa 7G":
+        - /url: /honda-bikes/activa-7g
+        - strong: Honda Activa 7G
+      - text: "Rs. 79,000 Expected Launch : Oct 2025 Alert Me When Launched"
+    - listitem:
+      - img "Honda CL500 Scrambler"
+      - link "Honda CL500 Scrambler":
+        - /url: /honda-bikes/cl500-scrambler
+        - strong: Honda CL500 Scrambler
+      - text: "Rs. 6.00 Lakh Expected Launch : Dec 2025 Alert Me When Launched"
+    - listitem
+  - img "Image"
+  - text: Do you own a Car or Bike?
+  - list:
+    - listitem: Interact with community
+    - listitem: Become a Top Contributor
+  - text: Add Car Add Bike
+  - heading "Search Bikes by Top Brands" [level=2]
+  - list:
+    - listitem:
+      - link "TVS":
+        - /url: /upcoming-tvs-bikes
+        - img
+        - text: TVS
+    - listitem:
+      - link "Bajaj":
+        - /url: /upcoming-bajaj-bikes
+        - img
+        - text: Bajaj
+    - listitem:
+      - link "Royal Enfield":
+        - /url: /upcoming-royal-enfield-bikes
+        - img
+        - text: Royal Enfield
+    - listitem:
+      - link "Yamaha":
+        - /url: /upcoming-yamaha-bikes
+        - img
+        - text: Yamaha
+    - listitem:
+      - link "Hero Moto Corp":
+        - /url: /upcoming-hero-bikes
+        - img
+        - text: Hero Moto Corp
+    - listitem:
+      - link "Suzuki":
+        - /url: /upcoming-suzuki-bikes
+        - img
+        - text: Suzuki
+    - listitem:
+      - link "KTM":
+        - /url: /upcoming-ktm-bikes
+        - img
+        - text: KTM
+    - listitem:
+      - link "Harley Davidson":
+        - /url: /upcoming-harley-davidson-bikes
+        - img
+        - text: Harley Davidson
+    - listitem:
+      - link "Vespa":
+        - /url: /upcoming-vespa-bikes
+        - img
+        - text: Vespa
+    - listitem:
+      - link "Ducati":
+        - /url: /upcoming-ducati-bikes
+        - img
+        - text: Ducati
+    - listitem:
+      - link "Kawasaki":
+        - /url: /upcoming-kawasaki-bikes
+        - img
+        - text: Kawasaki
+    - listitem:
+      - link "Benelli":
+        - /url: /upcoming-benelli-bikes
+        - img
+        - text: Benelli
+    - listitem:
+      - link "All Bike Brands":
+        - /url: /newbikes#manufacturers
+  - heading "Latest News on Honda Upcoming Bikes in India" [level=2]
+  - list:
+    - listitem:
+      - img "Honda CB500 Hornet, CBR500R, CBR650R, CB1000 Hornet Patented In India, Launch Soon?"
+      - link "Honda CB500 Hornet, CBR500R, CBR650R, CB1000 Hornet Patented In India, Launch Soon?":
+        - /url: /news-features/general-news/honda-cb500-hornet-cbr500r-cbr650r-cb1000-hornet-patented-in-india-launch-soon/53043/
+      - text: 15 May, 2024 | By Team ZigWheels
+    - listitem:
+      - 'img "EICMA 2022: Honda Rides In Brand-new CL500 Scrambler"'
+      - 'link "EICMA 2022: Honda Rides In Brand-new CL500 Scrambler"':
+        - /url: /news-features/general-news/eicma-2022-honda-rides-in-with-a-brand-new-cl500-scrambler/47639/
+      - text: 8 Nov, 2022 | By Team ZigWheels
+    - listitem:
+      - img "Will Honda Launch The CB500F In India Soon?"
+      - link "Will Honda Launch The CB500F In India Soon?":
+        - /url: /news-features/general-news/will-honda-launch-the-cb500f-in-india-soon/47622/
+      - text: 7 Nov, 2022 | By Team ZigWheels
+    - listitem:
+      - img "The 2021 Honda CB400F Looks Striking In The Flesh"
+      - link "The 2021 Honda CB400F Looks Striking In The Flesh":
+        - /url: /news-features/news/2021-honda-cb400f-unveiled-in-china/42878/
+      - text: 4 Aug, 2021 | By Team ZigWheels
+    - listitem:
+      - img "Brixton May Have An Answer To The Honda CB500F"
+      - link "Brixton May Have An Answer To The Honda CB500F":
+        - /url: /news-features/news/brixton-may-be-working-on-a-honda-cb500f-rival/42064/
+      - text: 14 May, 2021 | By Team ZigWheels
+    - listitem:
+      - img "Honda’s 500cc Models Are Ready For India"
+      - link "Honda’s 500cc Models Are Ready For India":
+        - /url: /news-features/news/honda-cbr500r-cb500x-and-cb500f-receive-euro-5-updates-india-launch-in-early-2021/39626/
+      - text: 2 Sep, 2020 | By Team ZigWheels
+  - heading "FAQs on Upcoming Honda Bikes" [level=2]
+  - heading "What are the upcoming honda bikes in India 2025?" [level=3]
+  - text: The upcoming bikes in India are Honda Shine 100 DX, Honda CB125 Hornet and Honda CBR500R and many more..
+  - heading "What are the upcoming honda commuter bikes in India?" [level=3]
+  - heading "What are the upcoming honda scooters in India?" [level=3]
+  - heading "What are the upcoming honda sports bikes in India?" [level=3]
+  - heading "What are the upcoming honda cruiser bikes in India?" [level=3]
+  - heading "What are the upcoming honda bikes under 1 lakh?" [level=3]
+  - heading "Trending Honda Bikes and Scooters" [level=2]
+  - list:
+    - listitem:
+      - img "Honda SP 125"
+      - link "SP125":
+        - /url: /honda-bikes/sp125
+      - text: Rs. 93,247
+    - listitem:
+      - img "Honda Shine"
+      - link "Shine":
+        - /url: /honda-bikes/cb-shine
+      - text: Rs. 85,590
+    - listitem:
+      - img "Honda SP160"
+      - link "SP160":
+        - /url: /honda-bikes/sp160
+      - text: Rs. 1.23 Lakh
+    - listitem:
+      - img "Honda Hornet 2.0"
+      - link "Hornet 2.0":
+        - /url: /honda-bikes/hornet-20
+      - text: Rs. 1.58 Lakh
+    - listitem:
+      - img "Honda Shine 100"
+      - link "Shine 100":
+        - /url: /honda-bikes/shine-100
+      - text: Rs. 68,862
+  - link "All Honda Bikes":
+    - /url: https://www.zigwheels.com/honda-bikes
+  - heading "Trending Bikes in India" [level=2]
+  - list:
+    - listitem:
+      - img "Royal Enfield Hunter 350"
+      - link "Royal Enfield Hunter 350":
+        - /url: /royal-enfield-bikes/hunter
+      - text: 1.50 Lakh
+    - listitem:
+      - img "Royal Enfield Continental GT 650"
+      - link "Royal Enfield Continental GT 650":
+        - /url: /royal-enfield-bikes/continental-gt-650
+      - text: 3.26 Lakh
+    - listitem:
+      - img "Honda Activa 6G"
+      - link "Honda Activa 6G":
+        - /url: /honda-bikes/activa-6g
+      - text: 81,045
+    - listitem:
+      - img "Yamaha MT 15 V2"
+      - link "Yamaha MT 15 V2":
+        - /url: /yamaha-bikes/mt-15
+      - text: 1.70 Lakh
+    - listitem:
+      - img "Royal Enfield Classic 350"
+      - link "Royal Enfield Classic 350":
+        - /url: /royal-enfield-bikes/classic-350
+      - text: 1.97 Lakh
+  - link "All Best Bikes in India":
+    - /url: /newbikes/best-bikes-in-india
+  - heading "Upcoming Bikes by Budget" [level=2]
+  - list:
+    - listitem:
+      - link "Upcoming Bikes Under 1 Lakh":
+        - /url: /newbikes/upcoming-bikes-under-1-Lakh
+    - listitem:
+      - link "Upcoming Bikes Under 2 Lakhs":
+        - /url: /newbikes/upcoming-bikes-between-1-to-2-Lakhs
+    - listitem:
+      - link "Upcoming Bikes Under 5 Lakhs":
+        - /url: /newbikes/upcoming-bikes-between-2-to-5-Lakhs
+    - listitem:
+      - link "Upcoming Bikes Above 5 Lakhs":
+        - /url: /newbikes/upcoming-bikes-above-5-Lakhs
+  - heading "Upcoming Bikes by Body Type" [level=2]
+  - list:
+    - listitem:
+      - link "Cruiser":
+        - /url: /newbikes/upcoming-cruiser-bikes
+    - listitem:
+      - link "Commuter":
+        - /url: /newbikes/upcoming-commuter-bikes
+    - listitem:
+      - link "Scooters":
+        - /url: /newbikes/upcoming-scooters
+    - listitem:
+      - link "Sports":
+        - /url: /newbikes/upcoming-sports-bikes
+    - listitem:
+      - link "Electric":
+        - /url: /newbikes/upcoming-electric-bikes
+- contentinfo:
+  - list:
+    - listitem: About Us
+    - listitem: Advertise with us
+    - listitem: Sitemap
+    - listitem: contact us
+  - list:
+    - listitem:
+      - link "Terms of use":
+        - /url: /termsofuse
+    - listitem:
+      - link "privacy policy":
+        - /url: /privacypolicy
+    - listitem: Apps
+    - listitem: feedback
+  - text: Cardekho Group Ventures
+  - link "zig-logo":
+    - /url: /
+    - img "zig-logo"
+  - list:
+    - listitem: 
+    - listitem: 
+    - listitem: 
+    - listitem: 
+  - text: Download ZigWheels app 4.4  User Rating 10 Lakh+ Download
+  - img "appimg"
+  - img "appimg"
+  - text: © 2008-2025 Girnar Software Pvt. Ltd. All rights Reserved.
+- heading "Compare" [level=3]
+- text: Close Compare Selected undefineds
+```

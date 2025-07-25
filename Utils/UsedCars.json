@@ -13,12 +13,24 @@
         "BrandPrice": "645000"
       },
       {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "877000"
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift LXI Optional-O",
+        "BrandPrice": "428209"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
+        "BrandPrice": "497000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZXI",
+        "BrandPrice": "480000"
+      },
+      {
+        "BrandName": "Maruti Swift 2021-2024 Maruti Swift VXI BSVI",
+        "BrandPrice": "645000"
       },
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
-        "BrandPrice": "597000"
+        "BrandPrice": "877000"
       },
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI",
@@ -29,12 +41,16 @@
         "BrandPrice": "458000"
       },
       {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZXI",
-        "BrandPrice": "520000"
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
+        "BrandPrice": "597000"
       },
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift AMT ZXI",
         "BrandPrice": "493000"
+      },
+      {
+        "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZXI",
+        "BrandPrice": "520000"
       },
       {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
@@ -61,10 +77,6 @@
         "BrandPrice": "628000"
       },
       {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift ZXI Plus",
-        "BrandPrice": "598000"
-      },
-      {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift ZXI BSIV",
         "BrandPrice": "750000"
       },
@@ -87,27 +99,11 @@
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift ZDI Plus",
         "BrandPrice": "695000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "497000"
-      },
-      {
-        "BrandName": "Maruti Swift 2010-2014 Maruti Swift VXI",
-        "BrandPrice": "680000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VXI",
-        "BrandPrice": "460000"
       }
     ]
   },
   {
     "Hyundai I10": [
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Era",
-        "BrandPrice": "260000"
-      },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
         "BrandPrice": "210000"
@@ -117,12 +113,16 @@
         "BrandPrice": "265000"
       },
       {
-        "BrandName": "Hyundai i10 Hyundai i10 Sportz",
-        "BrandPrice": "340000"
+        "BrandName": "Hyundai i10 Hyundai i10 Era",
+        "BrandPrice": "260000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
         "BrandPrice": "360000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz",
+        "BrandPrice": "340000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Era",
@@ -139,6 +139,10 @@
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz AT",
         "BrandPrice": "330000"
+      },
+      {
+        "BrandName": "Hyundai i10 Hyundai i10 Sportz",
+        "BrandPrice": "231000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz 1.1L",
@@ -193,16 +197,20 @@
   {
     "Honda City": [
       {
+        "BrandName": "Honda City 2015-2017 Honda City i VTEC V",
+        "BrandPrice": "482206"
+      },
+      {
         "BrandName": "Honda City 2008-2011 Honda City 1.5 V AT",
         "BrandPrice": "395000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City VX MT",
-        "BrandPrice": "1033170"
-      },
-      {
         "BrandName": "Honda City 2020-2023 Honda City V MT",
         "BrandPrice": "1050000"
+      },
+      {
+        "BrandName": "Honda City 2015-2017 Honda City i VTEC SV",
+        "BrandPrice": "563224"
       },
       {
         "BrandName": "Honda City 2008-2011 Honda City 1.5 V MT Exclusive",
@@ -217,12 +225,12 @@
         "BrandPrice": "1091000"
       },
       {
-        "BrandName": "Honda City 2020-2023 Honda City V CVT",
-        "BrandPrice": "692000"
-      },
-      {
         "BrandName": "Honda City 4th Generation Honda City i-VTEC V",
         "BrandPrice": "755000"
+      },
+      {
+        "BrandName": "Honda City 2020-2023 Honda City VX MT",
+        "BrandPrice": "913000"
       },
       {
         "BrandName": "Honda City 2020-2023 Honda City VX MT",
@@ -283,10 +291,6 @@
       {
         "BrandName": "Honda City ZX 2005-2008 Honda City CVT",
         "BrandPrice": "960000"
-      },
-      {
-        "BrandName": "Honda City 4th Generation Honda City SV MT",
-        "BrandPrice": "530000"
       }
     ]
   },
@@ -373,12 +377,12 @@
   {
     "Mahindra XUV500": [
       {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 AWD",
-        "BrandPrice": "1175000"
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 1.99 mHawk",
+        "BrandPrice": "1111770"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 1.99 mHawk",
-        "BrandPrice": "1111770"
+        "BrandPrice": "943000"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 R W10 FWD",
@@ -393,8 +397,8 @@
         "BrandPrice": "550000"
       },
       {
-        "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 1.99 mHawk",
-        "BrandPrice": "963000"
+        "BrandName": "Mahindra XUV500 Mahindra XUV500 AT W10 AWD",
+        "BrandPrice": "1175000"
       },
       {
         "BrandName": "Mahindra XUV500 Mahindra XUV500 W11 FWD Diesel",

@@ -1,0 +1,1 @@
+ Cleared output.json for Honda bikes
