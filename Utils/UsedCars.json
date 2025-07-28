@@ -21,6 +21,10 @@
         "BrandPrice": "497000"
       },
       {
+        "BrandName": "Maruti Swift 2014-2021 Maruti Swift VXI",
+        "BrandPrice": "460000"
+      },
+      {
         "BrandName": "Maruti Swift 2010-2014 Maruti Swift ZXI",
         "BrandPrice": "480000"
       },
@@ -95,10 +99,6 @@
       {
         "BrandName": "Maruti Swift 2014-2021 Maruti Swift VDI BSIV",
         "BrandPrice": "475000"
-      },
-      {
-        "BrandName": "Maruti Swift 2014-2021 Maruti Swift ZDI Plus",
-        "BrandPrice": "695000"
       }
     ]
   },
@@ -106,19 +106,15 @@
     "Hyundai I10": [
       {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
-        "BrandPrice": "210000"
+        "BrandPrice": "360000"
       },
       {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
-        "BrandPrice": "265000"
+        "BrandName": "Hyundai i10 Hyundai i10 Magna",
+        "BrandPrice": "210000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Era",
         "BrandPrice": "260000"
-      },
-      {
-        "BrandName": "Hyundai i10 Hyundai i10 Magna",
-        "BrandPrice": "360000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz",
@@ -129,10 +125,6 @@
         "BrandPrice": "240000"
       },
       {
-        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
-        "BrandPrice": "175000"
-      },
-      {
         "BrandName": "Hyundai i10 Hyundai i10 Magna",
         "BrandPrice": "260000"
       },
@@ -141,8 +133,16 @@
         "BrandPrice": "330000"
       },
       {
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "265000"
+      },
+      {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz",
         "BrandPrice": "231000"
+      },
+      {
+        "BrandName": "Hyundai i10 2007-2010 Hyundai i10 Magna 1.2",
+        "BrandPrice": "175000"
       },
       {
         "BrandName": "Hyundai i10 Hyundai i10 Sportz 1.1L",
@@ -198,7 +198,7 @@
     "Honda City": [
       {
         "BrandName": "Honda City 2015-2017 Honda City i VTEC V",
-        "BrandPrice": "482206"
+        "BrandPrice": "530000"
       },
       {
         "BrandName": "Honda City 2008-2011 Honda City 1.5 V AT",
@@ -239,10 +239,6 @@
       {
         "BrandName": "Honda City 2020-2023 Honda City V CVT",
         "BrandPrice": "975000"
-      },
-      {
-        "BrandName": "Honda City 2020-2023 Honda City V MT Diesel",
-        "BrandPrice": "524000"
       },
       {
         "BrandName": "Honda City 2020-2023 Honda City VX MT",
@@ -291,6 +287,10 @@
       {
         "BrandName": "Honda City ZX 2005-2008 Honda City CVT",
         "BrandPrice": "960000"
+      },
+      {
+        "BrandName": "Honda City 4th Generation Honda City SV MT",
+        "BrandPrice": "530000"
       }
     ]
   },

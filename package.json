@@ -3,8 +3,6 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "TestCases": "npx playwright test TestCasesDemo.spec.js --headed",
-    "TestDemo": "npx playwright test TestingDemo.spec.js --headed",
     "Usedcars":"npx playwright test TestingUsedCars.spec.js --headed",
     "Honda":"npx playwright test TestingHonda.spec.js --headed",
     "Google":"npx playwright test TestingGoogleSignin.spec.js --headed"
