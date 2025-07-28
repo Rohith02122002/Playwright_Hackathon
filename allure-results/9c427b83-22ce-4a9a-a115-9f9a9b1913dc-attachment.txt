@@ -1,1 +1,0 @@
- Cleared usedcars.json fro used cars 

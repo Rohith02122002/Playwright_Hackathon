@@ -1,4 +1,4 @@
-import {test,expect,chromium} from "@playwright/test";
+import {test,chromium} from "@playwright/test";
 import { GooglePage } from "../Pages/Google-Signin";
 const testData = require("../Utils/InputData.json");
 
@@ -16,9 +16,7 @@ let page;
         await google.NavigateUrl(testData.BaseURL);
     });
 
-
     test("Google URL Navigation", async () => {
-    //   await google.NavigateUrl(testData.BaseURL);
       await google.assertNavigationSuccess();
     });
 

@@ -1,0 +1,817 @@
+# Page snapshot
+
+```yaml
+- banner:
+  - link "Home":
+    - /url: /
+    - img "Home"
+  - navigation:
+    - list:
+      - listitem:
+        - link "NEWS & REVIEWS":
+          - /url: /news
+      - listitem:
+        - link "NEW CARS":
+          - /url: /newcars
+      - listitem:
+        - link "NEW BIKES":
+          - /url: /newbikes
+      - listitem:
+        - link "SCOOTERS":
+          - /url: /scooters
+      - listitem:  MORE
+  - textbox "Creta, Community, On Road Price, Ola S1, TVS Bikes"
+  - text: 
+  - img "Avatar"
+  - text: Login & More
+- list:
+  - listitem:
+    - link:
+      - /url: https://www.zigwheels.com/reviews-advice/reviews/tata-harrier-ev-review-tatas-best-foot-forward/56728/
+  - listitem:
+    - link:
+      - /url: https://www.zigwheels.com/news-features/general-news/breaking-2025-tvs-apache-rtr-310-launched-even-more-loaded-than-before/56715/
+  - listitem:
+    - link:
+      - /url: https://www.zigwheels.com/news-features/ev-news/mg-m9-presidential-limousine-launched-at-rs-69.90-lakh-heres-what-we-think-about-it/56732/
+  - listitem:
+    - link:
+      - /url: https://www.zigwheels.com/news-features/general-news/breaking-the-bajaj-pulsar-ns400z-gets-safer-more-powerful/56682/
+  - listitem:
+    - link:
+      - /url: https://www.zigwheels.com/reviews-advice/reviews/bmw-2-series-gran-coupe-review-almost-an-indulgence/56685/
+  - listitem:
+    - link:
+      - /url: https://www.zigwheels.com/news-features/general-news/breaking-aprilia-puts-the-horsepower-in-hp.e-with-new-scooters/56710/
+  - listitem:
+    - link:
+      - /url: http://pubads.g.doubleclick.net/gampad/clk?id=7047559654&iu=/1089059/Zigwheels_1x1_Pixel
+- list:
+  - listitem:
+    - link "1":
+      - /url: "#"
+  - listitem:
+    - link "2":
+      - /url: "#"
+  - listitem:
+    - link "3":
+      - /url: "#"
+  - listitem:
+    - link "4":
+      - /url: "#"
+  - listitem:
+    - link "5":
+      - /url: "#"
+  - listitem:
+    - link "6":
+      - /url: "#"
+  - listitem:
+    - link "7":
+      - /url: "#"
+- heading "Latest Car & Bike Updates" [level=1]
+- list:
+  - listitem: Latest
+  - listitem: Featured
+  - listitem: Reviews
+- list:
+  - listitem:
+    - 'img "Toyota Fortuner NeoDrive: What It Gets And What It Does Not!"'
+    - 'link "Toyota Fortuner NeoDrive: What It Gets And What It Does Not!"':
+      - /url: /news-features/general-news/toyota-fortuner-neodrive-what-it-gets-and-what-it-does-not/56757/
+    - text: 28 Jul, 2025 0 views
+  - listitem:
+    - img "Maruti Suzuki Fronx Now Available With Six Airbags As Standard, Priced Hiked By…"
+    - link "Maruti Suzuki Fronx Now Available With Six Airbags As Standard,...":
+      - /url: /news-features/general-news/maruti-suzuki-fronx-now-available-with-six-airbags-as-standard-priced-hiked-by/56756/
+    - text: 28 Jul, 2025 219 views
+  - listitem:
+    - 'img "BREAKING: Kinetic Rides The Nostalgia Wave; New DX Electric Scooter Launched"'
+    - 'link "BREAKING: Kinetic Rides The Nostalgia Wave; New DX Electric Scooter..."':
+      - /url: /news-features/general-news/breaking-kinetic-rides-the-nostalgia-wave-new-dx-electric-scooter-launched/56754/
+    - text: 28 Jul, 2025 405 views
+  - listitem:
+    - img "Check Out The Three Cars That Were Launched This Week…"
+    - link "Check Out The Three Cars That Were Launched This Week…":
+      - /url: /news-features/general-news/check-out-the-three-cars-that-were-launched-this-week/56753/
+    - text: 27 Jul, 2025 487 views
+  - listitem:
+    - 'img "How It Started vs How It’s Going: Yamaha FZ"'
+    - 'link "How It Started vs How It’s Going: Yamaha FZ"':
+      - /url: /news-features/general-news/how-it-started-vs-how-its-going-yamaha-fz/56751/
+    - text: 27 Jul, 2025 452 views
+  - listitem:
+    - 'img "Tata Harrier EV: Pros And Cons Of Tata’s Flagship Electric SUV"'
+    - 'link "Tata Harrier EV: Pros And Cons Of Tata’s Flagship Electric SUV"':
+      - /url: /news-features/ev-news/tata-harrier-ev-pros-and-cons-of-tatas-flagship-electric-suv/56752/
+    - text: 26 Jul, 2025 580 views
+- link "All News Updates":
+  - /url: /news
+- heading "Web Stories" [level=2]
+- list:
+  - listitem:
+    - 'link "2025 KTM 390 Enduro R: Review In Images 2025 KTM 390 Enduro R: Review In Images 13 Apr, 2025 1180 views"':
+      - /url: /web-stories/2025-ktm-390-enduro-r-review-in-images/56338/
+      - 'img "2025 KTM 390 Enduro R: Review In Images"'
+      - strong: "2025 KTM 390 Enduro R: Review In Images"
+      - text: 13 Apr, 2025 1180 views
+  - listitem:
+    - link "Hero Xtreme 125R Road Test Review In 10 Images Hero Xtreme 125R Road Test Review In 10 Images 9 Apr, 2025 1516 views":
+      - /url: /web-stories/hero-xtreme-125r-road-test-review-in-10-images/56316/
+      - img "Hero Xtreme 125R Road Test Review In 10 Images"
+      - strong: Hero Xtreme 125R Road Test Review In 10 Images
+      - text: 9 Apr, 2025 1516 views
+  - listitem:
+    - link "Royal Enfield Classic 650 Review In Images Royal Enfield Classic 650 Review In Images 27 Mar, 2025 1277 views":
+      - /url: /web-stories/royal-enfield-classic-650-review-in-images/56255/
+      - img "Royal Enfield Classic 650 Review In Images"
+      - strong: Royal Enfield Classic 650 Review In Images
+      - text: 27 Mar, 2025 1277 views
+  - listitem:
+    - link "2025 KTM 390 Duke Features Explained In 10 Images 2025 KTM 390 Duke Features Explained In 10 Images 18 Mar, 2025 778 views":
+      - /url: /web-stories/2025-ktm-390-duke-features-explained-in-10-images/56186/
+      - img "2025 KTM 390 Duke Features Explained In 10 Images"
+      - strong: 2025 KTM 390 Duke Features Explained In 10 Images
+      - text: 18 Mar, 2025 778 views
+  - listitem:
+    - link "TVS iQube ST Detailed Review In 10 Images TVS iQube ST Detailed Review In 10 Images 16 Mar, 2025 694 views":
+      - /url: /web-stories/tvs-iqube-st-detailed-review-in-10-images/56165/
+      - img "TVS iQube ST Detailed Review In 10 Images"
+      - strong: TVS iQube ST Detailed Review In 10 Images
+      - text: 16 Mar, 2025 694 views
+  - listitem:
+    - 'link "2025 KTM 390 Duke Launched: In Images 2025 KTM 390 Duke Launched: In Images 13 Mar, 2025 977 views"':
+      - /url: /web-stories/2025-ktm-390-duke-launched-in-images/56147/
+      - 'img "2025 KTM 390 Duke Launched: In Images"'
+      - strong: "2025 KTM 390 Duke Launched: In Images"
+      - text: 13 Mar, 2025 977 views
+  - listitem:
+    - 'link "Hero Xoom 125 Review: In 10 Images Hero Xoom 125 Review: In 10 Images 12 Mar, 2025 515 views"':
+      - /url: /web-stories/hero-xoom-125-review-in-10-images/56141/
+      - 'img "Hero Xoom 125 Review: In 10 Images"'
+      - strong: "Hero Xoom 125 Review: In 10 Images"
+      - text: 12 Mar, 2025 515 views
+  - listitem:
+    - 'link "Harley-Davidson CVO Road Glide RR: Highlights in 11 Images Harley-Davidson CVO Road Glide RR: Highlights in 11 Images 11 Mar, 2025 251 views"':
+      - /url: /web-stories/harley-davidson-cvo-road-glide-rr-highlights-in-11-images/56128/
+      - 'img "Harley-Davidson CVO Road Glide RR: Highlights in 11 Images"'
+      - strong: "Harley-Davidson CVO Road Glide RR: Highlights in 11 Images"
+      - text: 11 Mar, 2025 251 views
+  - listitem:
+    - 'link "In 12 Pics: Ultraviolette Tesseract Electric Maxi-Scooter Launched In 12 Pics: Ultraviolette Tesseract Electric Maxi-Scooter Launched 6 Mar, 2025 1936 views"':
+      - /url: /web-stories/ultaviolette-tesseract-electric-maxi-scooter-launched-in-12-pics/56081/
+      - 'img "In 12 Pics: Ultraviolette Tesseract Electric Maxi-Scooter Launched"'
+      - strong: "In 12 Pics: Ultraviolette Tesseract Electric Maxi-Scooter Launched"
+      - text: 6 Mar, 2025 1936 views
+  - listitem:
+    - 'link "Ultraviolette Shockwave E-bike Launched In India: In 12 Images Ultraviolette Shockwave E-bike Launched In India: In 12 Images 5 Mar, 2025 1429 views"':
+      - /url: /web-stories/ultraviolette-shockwave-e-bike-launched-in-india-in-12-images/56078/
+      - 'img "Ultraviolette Shockwave E-bike Launched In India: In 12 Images"'
+      - strong: "Ultraviolette Shockwave E-bike Launched In India: In 12 Images"
+      - text: 5 Mar, 2025 1429 views
+- link "All Web Stories":
+  - /url: /web-stories
+- heading "Latest Videos" [level=2]
+- list:
+  - listitem:
+    - iframe
+    - link "Tesla Model Y India Drive & First Impressions | Not Just Gizmos":
+      - /url: /gallery/reviews/tesla-model-y-india-drive-first-impressions-not-just-gizmos/56755/1
+    - text: 27 Jul, 2025 132 views
+  - listitem:
+    - iframe
+    - link "Kia Carens Clavis EV Review - The Best Carens Yet; Yet..":
+      - /url: /gallery/reviews/kia-carens-clavis-ev-review-the-best-carens-yet-yet/56738/1
+    - text: 22 Jul, 2025 1663 views 20:40
+  - listitem:
+    - iframe
+    - link "2025 TVS Apache RTR 310 | Better Tech, Lower Price! | ZigWheels":
+      - /url: /gallery/reviews/2025-tvs-apache-rtr-310-better-tech-lower-price-zigwheels/56730/1
+    - text: 21 Jul, 2025 1244 views 5:15
+  - listitem:
+    - iframe
+    - link "Tata Harrier EV Review | Techy, Comfy, Quick But Some Compromises":
+      - /url: /gallery/reviews/tata-harrier-ev-review-techy-comfy-quick-but-some-compromises/56729/1
+    - text: 20 Jul, 2025 1420 views 21:48
+  - listitem:
+    - iframe
+    - link "Royal Enfield Himalayan 450 & KTM 390 Adventure X | Adventure Junkies! | ZigWheels":
+      - /url: /gallery/reviews/royal-enfield-himalayan-450-ktm-390-adventure-x-adventure-junkies-zigwheels/56677/1
+    - text: 5 Jul, 2025 4069 views 25:33
+  - listitem:
+    - iframe
+    - link "Suzuki eAccess Electric Scooter First Ride Review - Has Suzuki Done Enough?":
+      - /url: /gallery/reviews/suzuki-eaccess-electric-scooter-first-ride-review-has-suzuki-done-enough/56553/1
+    - text: 30 May, 2025 11155 views 10:5
+- link "Latest Videos":
+  - /url: /video
+- heading "New Cars in India" [level=2]
+- list:
+  - listitem: Popular
+  - listitem: Latest
+  - listitem: Upcoming
+  - listitem: Electric
+  - listitem: SUV
+  - listitem: Hatchback
+  - listitem: Sedan
+  - listitem: MUV
+  - listitem: Luxury
+- list:
+  - listitem:
+    - img "Land Rover Defender"
+    - link "Land Rover Defender":
+      - /url: /land-rover-cars/defender
+    - text: Rs. 1.05 Crore
+  - listitem:
+    - img "Hyundai Creta"
+    - link "Hyundai Creta":
+      - /url: /hyundai-cars/creta
+    - text: Rs. 11.11 Lakh
+  - listitem:
+    - text: Best Deal of the Day
+    - img "Mahindra Scorpio"
+    - link "Mahindra Scorpio":
+      - /url: /mahindra-cars/scorpio-classic
+    - text: Rs. 13.77 Lakh
+  - listitem:
+    - img "Mahindra Thar ROXX"
+    - link "Mahindra Thar ROXX":
+      - /url: /mahindra-cars/thar-roxx
+    - text: Rs. 12.99 Lakh
+  - listitem:
+    - text: Best Deal of the Day
+    - img "Maruti Swift"
+    - link "Maruti Swift":
+      - /url: /maruti-suzuki-cars/swift
+    - text: Rs. 6.49 Lakh
+- link "All Popular Cars":
+  - /url: /newcars/best-cars-in-india
+- insertion
+- heading "Top Car Brands in India" [level=2]
+- list:
+  - listitem:
+    - link "Maruti Suzuki":
+      - /url: /maruti-suzuki-cars
+      - img
+      - text: Maruti Suzuki
+  - listitem:
+    - link "Tata":
+      - /url: /tata-cars
+      - img
+      - text: Tata
+  - listitem:
+    - link "Kia":
+      - /url: /kia-cars
+      - img
+      - text: Kia
+  - listitem:
+    - link "Toyota":
+      - /url: /toyota-cars
+      - img
+      - text: Toyota
+  - listitem:
+    - link "BMW":
+      - /url: /bmw-cars
+      - img
+      - text: BMW
+  - listitem:
+    - link "Hyundai":
+      - /url: /hyundai-cars
+      - img
+      - text: Hyundai
+  - listitem:
+    - link "Mahindra":
+      - /url: /mahindra-cars
+      - img
+      - text: Mahindra
+  - listitem:
+    - link "Honda":
+      - /url: /honda-cars
+      - img
+      - text: Honda
+  - listitem:
+    - link "MG Motor":
+      - /url: /mg-motor-cars
+      - img
+      - text: MG Motor
+  - listitem:
+    - link "Skoda":
+      - /url: /skoda-cars
+      - img
+      - text: Skoda
+  - listitem:
+    - link "Jaguar":
+      - /url: /jaguar-cars
+      - img
+      - text: Jaguar
+  - listitem:
+    - link "Audi":
+      - /url: /audi-cars
+      - img
+      - text: Audi
+  - listitem:
+    - link "All Car Brands":
+      - /url: /newcars#manufacturers
+- heading "Top Cars in India" [level=2]
+- list:
+  - listitem:
+    - link "Top Mileage Cars in India Top Mileage Cars in India Hyundai Creta, Maruti Swift":
+      - /url: /newcars/best-mileage-cars
+      - img "Top Mileage Cars in India"
+      - text: Top Mileage Cars in India Hyundai Creta, Maruti Swift
+  - listitem:
+    - link "Top SUV Cars in India Top SUV Cars in India Defender, Hyundai Creta":
+      - /url: /newcars/best-SUV-cars
+      - img "Top SUV Cars in India"
+      - text: Top SUV Cars in India Defender, Hyundai Creta
+  - listitem:
+    - link "Top Hatchback Cars in India Top Hatchback Cars in India Maruti Swift, Maruti Baleno":
+      - /url: /newcars/best-hatchback-cars
+      - img "Top Hatchback Cars in India"
+      - text: Top Hatchback Cars in India Maruti Swift, Maruti Baleno
+  - listitem:
+    - link "Top Sedan Cars in India Top Sedan Cars in India Maruti Dzire, Hyundai Verna":
+      - /url: /newcars/best-sedan-cars
+      - img "Top Sedan Cars in India"
+      - text: Top Sedan Cars in India Maruti Dzire, Hyundai Verna
+  - listitem:
+    - link "Top MUV Cars in India Top MUV Cars in India Maruti Ertiga, Toyota Innova Crysta":
+      - /url: /newcars/best-MUV-cars
+      - img "Top MUV Cars in India"
+      - text: Top MUV Cars in India Maruti Ertiga, Toyota Innova Crysta
+  - listitem:
+    - link "Top Luxury Cars in India Top Luxury Cars in India Porsche Macan EV, Rolls-Royce Ghost Series II":
+      - /url: /newcars/best-luxury-cars
+      - img "Top Luxury Cars in India"
+      - text: Top Luxury Cars in India Porsche Macan EV, Rolls-Royce Ghost Series II
+- heading "Popular Cars Comparison" [level=2]
+- list:
+  - listitem: Trending
+  - listitem: SUV
+  - listitem: Hatchback
+  - listitem: Sedan
+- list:
+  - listitem:
+    - img "Tata Harrier"
+    - text: Tata Harrier Rs. 15.00 Lakh vs
+    - img "Tata Safari"
+    - text: Tata Safari Rs. 15.50 Lakh
+    - link "Harrier vs Safari":
+      - /url: /compare-cars/tata-harrier-vs-tata-safari
+  - listitem:
+    - img "Maruti Grand Vitara"
+    - text: Maruti Suzuki Grand Vitara Rs. 11.42 Lakh vs
+    - img "Maruti Brezza"
+    - text: Maruti Suzuki Brezza Rs. 8.69 Lakh
+    - link "Grand Vitara vs Brezza":
+      - /url: /compare-cars/maruti-suzuki-brezza-vs-maruti-suzuki-grand-vitara
+  - listitem:
+    - img "Maruti Brezza"
+    - text: Maruti Suzuki Brezza Rs. 8.69 Lakh vs
+    - img "Hyundai Venue"
+    - text: Hyundai Venue Rs. 7.94 Lakh
+    - link "Brezza vs Venue":
+      - /url: /compare-cars/hyundai-venue-vs-maruti-suzuki-brezza
+  - listitem:
+    - img "Hyundai Venue"
+    - text: Hyundai Venue Rs. 7.94 Lakh vs
+    - img "Kia Sonet"
+    - text: Kia Sonet Rs. 8.00 Lakh
+    - link "Venue vs Sonet":
+      - /url: /compare-cars/hyundai-venue-vs-kia-sonet
+  - listitem:
+    - img "Toyota Fortuner"
+    - text: Toyota Fortuner Rs. 36.05 Lakh vs
+    - img "Toyota Fortuner Legender"
+    - text: Toyota Fortuner Legender Rs. 44.51 Lakh
+    - link "Fortuner vs Fortuner Legender":
+      - /url: /compare-cars/toyota-fortuner-vs-toyota-fortuner-legender
+  - listitem:
+    - img "Maruti Wagon R"
+    - text: Maruti Suzuki Wagon R Rs. 5.79 Lakh vs
+    - img "Maruti Swift"
+    - text: Maruti Suzuki Swift Rs. 6.49 Lakh
+    - link "Wagon R vs Swift":
+      - /url: /compare-cars/maruti-suzuki-swift-vs-maruti-suzuki-wagon-r
+  - listitem:
+    - img "Maruti FRONX"
+    - text: Maruti Suzuki FRONX Rs. 7.55 Lakh vs
+    - img "Maruti Dzire"
+    - text: Maruti Suzuki Dzire Rs. 6.84 Lakh
+    - link "FRONX vs Dzire":
+      - /url: /compare-cars/maruti-suzuki-dzire-vs-maruti-suzuki-fronx
+  - listitem:
+    - img "Mahindra Scorpio N"
+    - text: Mahindra Scorpio N Rs. 13.99 Lakh vs
+    - img "Mahindra Scorpio"
+    - text: Mahindra Scorpio Rs. 13.77 Lakh
+    - link "Scorpio N vs Scorpio":
+      - /url: /compare-cars/mahindra-scorpio-classic-vs-mahindra-scorpio-n
+  - listitem:
+    - img "Hyundai Creta"
+    - text: Hyundai Creta Rs. 11.11 Lakh vs
+    - img "Maruti Brezza"
+    - text: Maruti Suzuki Brezza Rs. 8.69 Lakh
+    - link "Creta vs Brezza":
+      - /url: /compare-cars/hyundai-creta-vs-maruti-suzuki-brezza
+  - listitem:
+    - img "Hyundai Creta"
+    - text: Hyundai Creta Rs. 11.11 Lakh vs
+    - img "Hyundai Alcazar"
+    - text: Hyundai Alcazar Rs. 14.99 Lakh
+    - link "Creta vs Alcazar":
+      - /url: /compare-cars/hyundai-alcazar-vs-hyundai-creta
+- link "Compare More Cars":
+  - /url: /compare-cars
+- heading "New Bikes And Scooters in India" [level=2]
+- list:
+  - listitem: Popular
+  - listitem: Latest
+  - listitem: Upcoming
+  - listitem: Scooters
+  - listitem: Electric
+  - listitem: Sports
+  - listitem: Cruiser
+  - listitem: Off Road
+- list:
+  - listitem:
+    - img "Royal Enfield Hunter 350"
+    - link "Royal Enfield Hunter 350":
+      - /url: /royal-enfield-bikes/hunter
+    - text: Rs. 1.50 Lakh
+  - listitem:
+    - img "Harley-Davidson X440"
+    - link "Harley-Davidson X440":
+      - /url: /harley-davidson-bikes/x440
+    - text: Rs. 2.40 Lakh
+  - listitem:
+    - img "Yamaha MT 15 V2"
+    - link "Yamaha MT 15 V2":
+      - /url: /yamaha-bikes/mt-15
+    - text: Rs. 1.70 Lakh
+  - listitem:
+    - img "Royal Enfield Classic 350"
+    - link "Royal Enfield Classic 350":
+      - /url: /royal-enfield-bikes/classic-350
+    - text: Rs. 1.97 Lakh
+  - listitem:
+    - img "Hero Splendor Plus"
+    - link "Hero Splendor Plus":
+      - /url: /hero-bikes/splendor-plus
+    - text: Rs. 77,176
+- link "All Popular Bikes":
+  - /url: /newbikes/best-bikes-in-india
+- heading "Top Bike Brands in India" [level=2]
+- list:
+  - listitem:
+    - link "TVS":
+      - /url: /tvs-bikes
+      - img
+      - text: TVS
+  - listitem:
+    - link "Bajaj":
+      - /url: /bajaj-bikes
+      - img
+      - text: Bajaj
+  - listitem:
+    - link "Royal Enfield":
+      - /url: /royal-enfield-bikes
+      - img
+      - text: Royal Enfield
+  - listitem:
+    - link "BGauss":
+      - /url: /bgauss-scooters
+      - img
+      - text: BGauss
+  - listitem:
+    - link "Yamaha":
+      - /url: /yamaha-bikes
+      - img
+      - text: Yamaha
+  - listitem:
+    - link "Honda":
+      - /url: /honda-bikes
+      - img
+      - text: Honda
+  - listitem:
+    - link "Hero Moto Corp":
+      - /url: /hero-bikes
+      - img
+      - text: Hero Moto Corp
+  - listitem:
+    - link "Suzuki":
+      - /url: /suzuki-bikes
+      - img
+      - text: Suzuki
+  - listitem:
+    - link "KTM":
+      - /url: /ktm-bikes
+      - img
+      - text: KTM
+  - listitem:
+    - link "Jawa Motorcycles":
+      - /url: /jawa-bikes
+      - img
+      - text: Jawa Motorcycles
+  - listitem:
+    - link "Harley Davidson":
+      - /url: /harley-davidson-bikes
+      - img
+      - text: Harley Davidson
+  - listitem:
+    - link "Vespa":
+      - /url: /vespa-scooters
+      - img
+      - text: Vespa
+  - listitem:
+    - link "All Bike Brands":
+      - /url: /newbikes#manufacturers
+- heading "Top Bikes in India" [level=2]
+- list:
+  - listitem:
+    - link "Top Mileage Bikes in India Top Mileage Bikes in India Hero Splendor Plus, Hero HF Deluxe":
+      - /url: /newbikes/best-mileage-bikes
+      - img "Top Mileage Bikes in India"
+      - text: Top Mileage Bikes in India Hero Splendor Plus, Hero HF Deluxe
+  - listitem:
+    - link "Top Cruiser Bikes in India Top Cruiser Bikes in India Royal Enfield Hunter 350, Harley Davidson X440":
+      - /url: /newbikes/best-cruiser-bikes
+      - img "Top Cruiser Bikes in India"
+      - text: Top Cruiser Bikes in India Royal Enfield Hunter 350, Harley Davidson X440
+  - listitem:
+    - link "Top Sports Bikes in India Top Sports Bikes in India Yamaha MT 15 V2, TVS Raider":
+      - /url: /newbikes/best-sports-bikes
+      - img "Top Sports Bikes in India"
+      - text: Top Sports Bikes in India Yamaha MT 15 V2, TVS Raider
+  - listitem:
+    - link "Top Commuter Bikes in India Top Commuter Bikes in India Hero Splendor Plus, Honda Shine":
+      - /url: /newbikes/best-commuter-bikes
+      - img "Top Commuter Bikes in India"
+      - text: Top Commuter Bikes in India Hero Splendor Plus, Honda Shine
+  - listitem:
+    - link "Top Super Bikes in India Top Super Bikes in India Kawasaki Ninja ZX-10R, Suzuki Hayabusa":
+      - /url: /newbikes/best-super-bikes
+      - img "Top Super Bikes in India"
+      - text: Top Super Bikes in India Kawasaki Ninja ZX-10R, Suzuki Hayabusa
+  - listitem:
+    - link "Top Scooters in India Top Scooters in India Honda Activa 6G, Suzuki Access 125":
+      - /url: /newbikes/best-scooters
+      - img "Top Scooters in India"
+      - text: Top Scooters in India Honda Activa 6G, Suzuki Access 125
+  - listitem:
+    - link "Top Electric Bikes in India Top Electric Bikes in India Yulu Wynn, Bajaj Chetak":
+      - /url: /newbikes/electric-bikes
+      - img "Top Electric Bikes in India"
+      - text: Top Electric Bikes in India Yulu Wynn, Bajaj Chetak
+- heading "Popular Bikes Comparison" [level=2]
+- list:
+  - listitem: Trending
+  - listitem: Scooters
+  - listitem: Sports
+  - listitem: Cruisers
+  - listitem: Commuters
+- list:
+  - listitem:
+    - img "TVS iQube"
+    - text: TVS iQube Rs. 94,434 vs
+    - img "Bajaj Chetak"
+    - text: Bajaj Chetak Rs. 99,900
+    - link "iQube vs Chetak":
+      - /url: /bike-comparison/bajaj-chetak-vs-tvs-iqube-electric
+  - listitem:
+    - img "Honda Activa 125"
+    - text: Honda Activa 125 Rs. 96,270 vs
+    - img "Suzuki Access 125"
+    - text: Suzuki Access 125 Rs. 83,800
+    - link "Activa 125 vs Access 125":
+      - /url: /bike-comparison/honda-activa-125-vs-suzuki-access-125
+  - listitem:
+    - img "Honda Activa 6G"
+    - text: Honda Activa 6G Rs. 81,045 vs
+    - img "TVS Jupiter"
+    - text: TVS Jupiter Rs. 78,631
+    - link "Activa 6G vs Jupiter":
+      - /url: /bike-comparison/honda-activa-6g-vs-tvs-jupiter
+  - listitem:
+    - img "Royal Enfield Interceptor 650"
+    - text: Royal Enfield Interceptor 650 Rs. 3.10 Lakh vs
+    - img "Royal Enfield Continental GT 650"
+    - text: Royal Enfield Continental GT 650 Rs. 3.26 Lakh
+    - link "Interceptor 650 vs Continental GT 650":
+      - /url: /bike-comparison/royal-enfield-continental-gt-650-vs-royal-enfield-interceptor-650
+  - listitem:
+    - img "Royal Enfield Classic 350"
+    - text: Royal Enfield Classic 350 Rs. 1.97 Lakh vs
+    - img "Royal Enfield Bullet 350"
+    - text: Royal Enfield Bullet 350 Rs. 1.75 Lakh
+    - link "Classic 350 vs Bullet 350":
+      - /url: /bike-comparison/royal-enfield-bullet-350-vs-royal-enfield-classic-350
+  - listitem:
+    - img "TVS Jupiter 125"
+    - text: TVS Jupiter 125 Rs. 80,740 vs
+    - img "Suzuki Access 125"
+    - text: Suzuki Access 125 Rs. 83,800
+    - link "Jupiter 125 vs Access 125":
+      - /url: /bike-comparison/suzuki-access-125-vs-tvs-jupiter-125
+  - listitem:
+    - img "Hero Splendor Plus"
+    - text: Hero Moto Corp Splendor Plus Rs. 77,176 vs
+    - img "Hero HF Deluxe"
+    - text: Hero Moto Corp HF Deluxe Rs. 59,998
+    - link "Splendor Plus vs HF Deluxe":
+      - /url: /bike-comparison/hero-hf-deluxe-vs-hero-splendor-plus
+  - listitem:
+    - img "Bajaj Pulsar NS160"
+    - text: Bajaj Pulsar NS160 Rs. 1.30 Lakh vs
+    - img "Bajaj Pulsar N160"
+    - text: Bajaj Pulsar N160 Rs. 1.22 Lakh
+    - link "Pulsar NS160 vs Pulsar N160":
+      - /url: /bike-comparison/bajaj-pulsar-150ns-vs-bajaj-pulsar-n160
+  - listitem:
+    - img "Royal Enfield Classic 350"
+    - text: Royal Enfield Classic 350 Rs. 1.97 Lakh vs
+    - img "Royal Enfield Hunter 350"
+    - text: Royal Enfield Hunter 350 Rs. 1.50 Lakh
+    - link "Classic 350 vs Hunter 350":
+      - /url: /bike-comparison/royal-enfield-classic-350-vs-royal-enfield-hunter
+  - listitem:
+    - img "Suzuki Access 125"
+    - text: Suzuki Access 125 Rs. 83,800 vs
+    - img "TVS Jupiter"
+    - text: TVS Jupiter Rs. 78,631
+    - link "Access 125 vs Jupiter":
+      - /url: /bike-comparison/suzuki-access-125-vs-tvs-jupiter
+- link "Compare More Bikes":
+  - /url: /bikes/comparison
+- heading "Latest User Reviews" [level=2]
+- list:
+  - listitem:
+    - text: Creta 4.5 84 reviews Overall package no complaints
+    - paragraph: Overall package no complaints ,loved it driving more than 16000km till now ,no issue found and hundai service is excellent.go for it without any worries.comfart level is very high .Handling and braking awesome and mileage is good , above all the automatic dct gearbox fun to drive and engine vibrations nil.
+    - text: ...Read More 388 Share Mohinder Singh 1 month ago
+  - listitem:
+    - text: Hunter 350 4.3 778 reviews My dream bike
+    - paragraph: The Royal Enfield Hunter 350 has quickly become a popular choice, especially among those looking for an accessible and stylish motorcycle for urban commuting and occasional longer rides. Here's a breakdown of its key aspects based on recent reviews:Overall Impression.
+    - text: ...Read More 2 Share Soumitra 1 month ago
+  - listitem:
+    - text: Activa 6G 4 1101 reviews Awesome Comfortable Driving Experience!!
+    - paragraph: I bought the activa 6g 3 years back and my overall experience with this scooty is really awesome.Average mileage turn around 45-50 km/l.I commonly used to travel long distance destinations with my activa 6g and i can surely say that the drive controlling is very good and comfort levels are utmost good.It has a silent start feature and a good telescopic suspension which makes every ride a premium one.Even if you drive 100kms in one go you will not feel exhausted.Buiild quality is really good and no vibrations at high speeds.It's reliable and really has good performance.Apart, The after sales service was really awesome, As the concerned showroom provided provided proper timely maintenance and health checkups along with some other stuffs as promised.So, I have no complaint on after sales service by the showroom/dealer.I have been using this scooty since last 3 years and till now i have not experienced a single mechanical fault and not even faced a single repair work except the showroom service.Also, It has a average weight which can be easily accommodated/handled by the elderly persons as well.So, My overall experience with my activa 6g stands really awesome!!!.
+    - text: ...Read More 0 Share Litmus 1 week ago
+  - listitem:
+    - text: Access 125 3.8 16 reviews I bought this scooty
+    - paragraph: I bought this scooty 1 week ago overall the it's better than most scootys in the market but I think millage of the scooty can be improved it's always fluctuating heavily when I give high throttle as low as 18 km which is big negative and it's very comfortable and service guys are friendly during the delivery as well1.
+    - text: ...Read More 0 Share Manoj India 1 month ago
+  - listitem:
+    - text: Hunter 350 4.3 778 reviews Bike mileage
+    - paragraph: Super performance bike mileage super very good speed and system beautiful dil se 💕
+    - text: 1 Share Nilesh 1 month ago
+- link "All Read Reviews":
+  - /url: /user-reviews
+- img "Largest Community of Car and Bike Owners"
+- heading "Join the Zigwheels Community NEW" [level=4]
+- paragraph: India's largest automotive community
+- list:
+  - listitem:
+    - link "Explore Now":
+      - /url: /community
+- heading "Last Month Top Contributors" [level=3]
+- list:
+  - listitem:
+    - img "userProfile"
+    - img "crown"
+    - text: Sonia Sehrawat9864 2 Reviews 0 Likes
+  - listitem:
+    - img "userProfile"
+    - img "crown"
+    - text: Pranjal Ojha 1 Reviews 0 Likes
+  - listitem:
+    - img "userProfile"
+    - img "crown"
+    - text: Durgesh 1 Reviews 0 Likes
+  - listitem: View More
+- heading "Latest Questions and Answers" [level=2]
+- textbox "Have a question in mind"
+- text: Q. Ather 450 s full price?
+- list:
+  - listitem: Ather Energy 450S is priced between Rs. 1.22 - 1.36 Lakh (Ex-showroom, Delhi).
+- text: Q. I am a 21 years old young Boy and my height is 5ft only. Is Bajaj Avenger Cruise 220 good for me? I am a women and my height is 5ft only. Is Bajaj Avenger Cruise 220 good for me?
+- list:
+  - listitem: Considering your height is 5ft, we would recommend taking a test ride of the Bajaj Avenger Cruise 220 to check comfort and ease of handling.
+- text: Q. Hello Sir I am a 22 years young Boy and my height is 5ft only. Is Bajaj Avenger Cruise 220 good for me?
+- list:
+  - listitem: The Bajaj Avenger Cruise 220 comes with a saddle height of 737 mm, which is quite accessible. However, we recommend you to visit the nearest dealership and take a test ride to ensure it suits your comfort and handling preferences.
+- text: More Questions
+- img "Gaad-Store"
+- text: Sell Your Car in Best Price
+- paragraph: Instant money transfer, RC Transfer, Home Inspection
+- text: COVID safety assured - Contactless experience in whole process
+- link "Book Home Inspection":
+  - /url: https://www.cardekho.com/sell-used-car?verifyCity=1&utm_source=website_zigwheels&utm_medium=Internal&utm_campaign=Homepage
+- link "Or Check Best Price of Your Car":
+  - /url: https://www.cardekho.com/sell-used-car?verifyCity=1&utm_source=website_zigwheels&utm_medium=Internal&utm_campaign=Homepage
+- heading "Search Used Car by Price" [level=2]
+- list:
+  - listitem: 1 - 5 Lakh
+  - listitem: 5 - 10 Lakh
+  - listitem: 10 - 15 Lakh
+- list:
+  - listitem:
+    - img "Maruti Ignis"
+    - link "Maruti Ignis":
+      - /url: /used-car/Maruti/used-Maruti-ignis/Maruti-used-maruti-ignis-maruti-ignis-1.2-sigma-bsiv/499cc540-90f8-4b38-a761-abb72ffb674b
+    - text: Rs. 3.50 Lakh
+  - listitem:
+    - img "Maruti 800"
+    - link "Maruti 800":
+      - /url: /used-car/Maruti/used-Maruti-800/Maruti-used-maruti-800-maruti-800-ac/a7eab90d-e504-4a07-84e6-9464c67f4f02
+    - text: Rs. 1.20 Lakh
+  - listitem:
+    - img "Hyundai Grand i10 2013-2016"
+    - link "Hyundai Grand i10 2013-2016":
+      - /url: /used-car/Hyundai/used-Hyundai-grand-i10-2013-2016/Hyundai-used-hyundai-grand-i10-2013-2016-hyundai-grand-i10-magna/30b69660-4d1d-4ff0-b417-5c29c062a865
+    - text: Rs. 3.50 Lakh
+  - listitem:
+    - img "Honda Amaze 2016-2021"
+    - link "Honda Amaze 2016-2021":
+      - /url: /used-car/Honda/used-Honda-amaze-2016-2021/Honda-used-honda-amaze-2016-2021-honda-amaze-v-cvt-petrol/ca89c5c7-11ae-4e1c-afce-1485c8d591da
+    - text: Rs. 4.14 Lakh
+  - listitem:
+    - img "Tata Tiago 2015-2019"
+    - link "Tata Tiago 2015-2019":
+      - /url: /used-car/Tata/used-Tata-tiago-2015-2019/Tata-used-tata-tiago-2015-2019-tata-tiago-1.05-revotorq-xm/4631ebc1-0ca7-4465-85e8-014fb91fd0d3
+    - text: Rs. 1.80 Lakh
+- link "Used Cars upto 5 Lakh":
+  - /url: /used-car/used-cars-between-2-to-5-lakhs-in-Delhi
+- heading "Used Cars in India" [level=2]
+- list:
+  - listitem:
+    - link "New Delhi":
+      - /url: /used-car/Delhi
+  - listitem:
+    - link "Bengaluru":
+      - /url: /used-car/Bangalore
+  - listitem:
+    - link "Mumbai":
+      - /url: /used-car/Mumbai
+  - listitem:
+    - link "Kolkata":
+      - /url: /used-car/Kolkata
+  - listitem:
+    - link "Chennai":
+      - /url: /used-car/Chennai
+  - listitem:
+    - link "Pune":
+      - /url: /used-car/Pune
+- textbox "Search your City"
+- contentinfo:
+  - list:
+    - listitem: About Us
+    - listitem: Advertise with us
+    - listitem: Sitemap
+    - listitem: contact us
+  - list:
+    - listitem:
+      - link "Terms of use":
+        - /url: /termsofuse
+    - listitem:
+      - link "privacy policy":
+        - /url: /privacypolicy
+    - listitem: Apps
+    - listitem: feedback
+  - text: Cardekho Group Ventures
+  - link "CarDekho":
+    - /url: https://www.cardekho.com
+    - img "CarDekho"
+  - link "BikeDekho":
+    - /url: https://www.bikedekho.com
+    - img "BikeDekho"
+  - link "TrucksDekho":
+    - /url: https://trucks.cardekho.com
+    - img "TrucksDekho"
+  - link "TractorsDekho":
+    - /url: https://www.tractorsdekho.com
+    - img "TractorsDekho"
+  - link "Revv":
+    - /url: https://www.revv.co.in
+    - img "Revv"
+  - link "Rupyy":
+    - /url: https://www.rupyy.com
+    - img "Rupyy"
+  - link "InsuranceDekho":
+    - /url: https://www.insurancedekho.com
+    - img "InsuranceDekho"
+  - link "TyresDekho":
+    - /url: https://tyres.cardekho.com
+    - img "TyresDekho"
+  - link "zig-logo":
+    - /url: /
+    - img "zig-logo"
+  - list:
+    - listitem: 
+    - listitem: 
+    - listitem: 
+    - listitem: 
+  - text: Download ZigWheels app 4.4  User Rating 10 Lakh+ Download
+  - img "appimg"
+  - img "appimg"
+  - text: © 2008-2025 Girnar Software Pvt. Ltd. All rights Reserved.
+```
